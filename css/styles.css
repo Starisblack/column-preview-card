@@ -1,0 +1,93 @@
+body{
+  background-color:  hsl(0, 0%, 95%);
+  max-height: 700px;
+  max-width: 1440px;
+  font-size: 15px;
+  text-align: center;
+}
+
+.attribution{
+  position: absolute;
+  top:500px;
+  bottom: 0;
+  left: 30%;
+}
+.challenge{
+  color: black;
+}
+.mother-container{
+  max-width: 900px;
+  margin: 100px auto;
+}
+
+p{
+  color: hsla(0, 0%, 100%, 0.75);
+}
+
+h1{
+  color: hsl(0, 0%, 95%);
+}
+
+.child-container{
+  height: 400px;
+  width: 250px;
+  float: left;
+  line-height: 1.5;
+}
+
+.one {
+  background-color: hsl(31, 77%, 52%);
+}
+
+.two{
+  background-color: hsl(184, 100%, 22%);
+}
+
+.three{
+  background-color: hsl(179, 100%, 13%);
+}
+
+.Sedans{
+  width: 70%;
+  margin-top:  20px;
+  margin-left: 40px;
+  text-align: left;
+}
+
+.Suvs{
+  width: 70%;
+  margin-top:  20px;
+  margin-left: 40px;
+  text-align: left;
+}
+
+.Luxury{
+  width: 70%;
+  margin-top:  20px;
+  margin-left: 40px;
+  text-align: left;
+}
+
+a{
+  margin-top: 50px;
+}
+
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 0;
+   line-height: 0;
+   color: #FFAE00;
+   font-family: Arial;
+   width: 91px;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 16px;
+   background-color: #FFFFFF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
